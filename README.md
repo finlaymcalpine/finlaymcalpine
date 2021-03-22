@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @finlaymcalpine
+- Hi, I’m @finlaymcalpine
 
 - I'm an economist who's interested in working with macro and financial market data to inform policy and investment decisions across the macroeconomic sphere.
 - For me, though, GitHub is where I mess about with personal projects: to get better at R, to learn Python, and to avoid marathon training.
