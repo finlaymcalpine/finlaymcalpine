@@ -1,5 +1,4 @@
 - Hi, I’m @finlaymcalpine
 
-- I'm an former economist and current data scientist who's interested in working with macro and financial market data to inform decision-making across the macroeconomic space.
-- For me, though, GitHub is where I'll mess about with personal projects: to get better at R & Python, to learn more about data science, and to avoid marathon training!
-- I'm always looking to work on new pet projects and to improve my programming/data science skills.
+- I'm an economist/data scientist interested in working with macro and financial market data to inform decision-making.
+- For me, though, GitHub is where I'll mess about with personal projects: to get better at Python (and delve into Rust), to learn more about data science, and to avoid marathon training!
